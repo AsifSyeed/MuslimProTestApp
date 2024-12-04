@@ -1,0 +1,174 @@
+# Xcode
+#
+build/
+DerivedData/
+*.xcworkspace
+!default.xcworkspace
+xcuserdata/
+*.moved-aside
+*.xcuserstate
+*.xcuserdatad/
+*.swp
+*.xcscmblueprint
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcworkspace/contents.xcworkspacedata
+
+# Swift Package Manager
+#
+Packages
+# Uncomment the next line if you don't want to check in source code from Swift Package Manager dependencies.
+# .package.resolved
+.build/
+# .swiftpm/
+
+# CocoaPods
+#
+Pods/
+Podfile.lock
+# Uncomment the next line if you have an Xcode workspace with schemes you do not want to share.
+# .xcworkspace/
+
+# Carthage
+#
+Carthage/Build/
+
+# Accio dependency management
+#
+.accio/
+
+# fastlane
+#
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/*.png
+fastlane/test_output/
+
+# Code Injection by AppCode
+#
+.idea/
+
+# AppCode
+#
+.idea/workspace.xml
+.idea/libraries
+.idea/tasks.xml
+.idea/description.xml
+.idea/dictionaries
+.idea/modules.xml
+.idea/vcs.xml
+.idea/misc.xml
+.idea/copyright/
+.idea/inspectionProfiles/
+.idea/consoles/
+.idea/shelf/
+.idea/gradle.xml
+.idea/compiler.xml
+.idea/watcherTasks.xml
+.idea/jsLibraryMappings.xml
+.idea/libraries/
+
+# Xcode Archive files
+#
+*.xcarchive
+
+# iOS Logs
+#
+*.log
+
+# OS X Temporary Files
+#
+.DS_Store
+.TemporaryItems
+.Trashes
+*.swp
+*.lock
+*~
+
+# OS X Directories
+#
+.AppleDouble
+.LSOverride
+
+# Certificates
+#
+*.cer
+*.crt
+*.pem
+
+# Provisioning Profiles
+#
+*.mobileprovision
+*.provisionprofile
+
+# Symbolication files
+#
+*.dSYM.zip
+*.dSYM
+
+# Playgrounds
+#
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Playgrounds
+#
+playgroundbook
+
+# Documentation
+#
+*.docc
+
+# Package-generated files
+#
+.package.resolved
+
+# Application specific files
+#
+*.tmproj
+
+# Reveal App files
+#
+*.reveal
+
+# Xcode custom templates
+#
+*.ideplugin
+*.pbxuser
+*.mode1v3
+*.mode2v3
+
+# xcresult files
+#
+*.xcresult
+
+# Bookmark and Safari related
+#
+*.rsync
+*.icloud
+
+# Web resources
+#
+*.html
+*.js
+*.json
+*.css
+*.scss
+*.jsx
+*.ts
+*.tsx
+*.lock
+*.pem
+*.crt
+
+# Code Coverage
+#
+coverage/
+*.gcda
+*.gcno
+*.gcov
+
+# Human Interface Guidelines (HIG)
+#
+*._HIG_
+Red.Gif.xcscheme
