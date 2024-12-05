@@ -17,8 +17,8 @@ MuslimProTestApp is an iOS application designed to demonstrate key development s
 
 ## Requirements
 
-- Xcode 14.0+
-- iOS 18.0+
+- Xcode 15.0+
+- iOS 17.0+
 - Swift 5.0+
 - Swift Package Manager for dependency management
 - Google AdMob SDK
