@@ -172,3 +172,9 @@ coverage/
 #
 *._HIG_
 Red.Gif.xcscheme
+
+# Allow Assets.xcassets and its contents
+!MuslimProTestApp/Assets.xcassets/
+!MuslimProTestApp/Assets.xcassets/**/Contents.json
+!MuslimProTestApp/Assets.xcassets/**/*.colorset/
+!MuslimProTestApp/Assets.xcassets/**/*.appiconset/

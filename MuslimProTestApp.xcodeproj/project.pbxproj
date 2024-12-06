@@ -63,7 +63,7 @@
 		4D8BE6A72CFDE18E0018F747 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4D8BE6B32CFDE1910018F747 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4D8BE6B52CFDE1910018F747 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4DE0C3922D02A61500A3107A /* MuslimProTestApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = MuslimProTestApp.app; path = "/Users/asifreddot/Documents/MuslimProTestApp/MuslimProTestApp/build/Debug-iphoneos/MuslimProTestApp.app"; sourceTree = "<absolute>"; };
+		4D92A96E2D02A7AC00030581 /* MuslimProTestApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = MuslimProTestApp.app; path = "/Users/asifreddot/Documents/MuslimProTestApp/MuslimProTestApp/build/Debug-iphoneos/MuslimProTestApp.app"; sourceTree = "<absolute>"; };
 		4DE0C3942D02A66E00A3107A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -308,7 +308,7 @@
 				4D5B85442D0248490076EDD5 /* GoogleMobileAds */,
 			);
 			productName = MuslimProTestApp;
-			productReference = 4DE0C3922D02A61500A3107A /* MuslimProTestApp.app */;
+			productReference = 4D92A96E2D02A7AC00030581 /* MuslimProTestApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
