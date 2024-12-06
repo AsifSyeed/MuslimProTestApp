@@ -32,8 +32,8 @@
 		4D3BC7672D022AB000F8DA5B /* SettingsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D3BC7522D022AB000F8DA5B /* SettingsViewModel.swift */; };
 		4D5B85452D0248490076EDD5 /* GoogleMobileAds in Frameworks */ = {isa = PBXBuildFile; productRef = 4D5B85442D0248490076EDD5 /* GoogleMobileAds */; settings = {ATTRIBUTES = (Required, ); }; };
 		4D8BE6A82CFDE18E0018F747 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D8BE6A72CFDE18E0018F747 /* AppDelegate.swift */; };
-		4D8BE6B12CFDE1910018F747 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D8BE6B02CFDE1910018F747 /* Assets.xcassets */; };
 		4D8BE6B42CFDE1910018F747 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 4D8BE6B32CFDE1910018F747 /* Base */; };
+		4DE0C3952D02A66E00A3107A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DE0C3942D02A66E00A3107A /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -60,11 +60,11 @@
 		4D3BC74F2D022AB000F8DA5B /* SettingsItemTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsItemTableViewCell.swift; sourceTree = "<group>"; };
 		4D3BC7502D022AB000F8DA5B /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		4D3BC7522D022AB000F8DA5B /* SettingsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewModel.swift; sourceTree = "<group>"; };
-		4D51B06F2D022B74003139CE /* MuslimProTestApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = MuslimProTestApp.app; path = "/Users/asifreddot/Documents/asifreddot/MuslimProTestApp/build/Debug-iphoneos/MuslimProTestApp.app"; sourceTree = "<absolute>"; };
 		4D8BE6A72CFDE18E0018F747 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		4D8BE6B02CFDE1910018F747 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4D8BE6B32CFDE1910018F747 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4D8BE6B52CFDE1910018F747 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4DE0C3922D02A61500A3107A /* MuslimProTestApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = MuslimProTestApp.app; path = "/Users/asifreddot/Documents/MuslimProTestApp/MuslimProTestApp/build/Debug-iphoneos/MuslimProTestApp.app"; sourceTree = "<absolute>"; };
+		4DE0C3942D02A66E00A3107A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -281,9 +281,9 @@
 				4D3BC7302D022AA700F8DA5B /* Base */,
 				4D3BC7552D022AB000F8DA5B /* Modules */,
 				4D8BE6A72CFDE18E0018F747 /* AppDelegate.swift */,
-				4D8BE6B02CFDE1910018F747 /* Assets.xcassets */,
 				4D8BE6B22CFDE1910018F747 /* LaunchScreen.storyboard */,
 				4D8BE6B52CFDE1910018F747 /* Info.plist */,
+				4DE0C3942D02A66E00A3107A /* Assets.xcassets */,
 			);
 			path = MuslimProTestApp;
 			sourceTree = "<group>";
@@ -308,7 +308,7 @@
 				4D5B85442D0248490076EDD5 /* GoogleMobileAds */,
 			);
 			productName = MuslimProTestApp;
-			productReference = 4D51B06F2D022B74003139CE /* MuslimProTestApp.app */;
+			productReference = 4DE0C3922D02A61500A3107A /* MuslimProTestApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -352,7 +352,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4D8BE6B12CFDE1910018F747 /* Assets.xcassets in Resources */,
+				4DE0C3952D02A66E00A3107A /* Assets.xcassets in Resources */,
 				4D8BE6B42CFDE1910018F747 /* Base in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
